@@ -7,7 +7,7 @@ struct _person;
 typedef struct _person* position;
 
 typedef struct _person {
-    char ime[50];
+    char ime[50]; 
     char prezime[50];
     char spol[10];
     char datumIspitivanja[11];
